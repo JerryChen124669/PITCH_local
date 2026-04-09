@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+torch
+scikit-learn
+matplotlib
+scipy
+captum
+networkx
+shap
+umap-learn
+openpyxl
+psutil
